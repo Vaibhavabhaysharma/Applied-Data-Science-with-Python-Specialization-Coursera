@@ -2,7 +2,7 @@
 This repository contains solutions to the 5 courses under the specialization Applied Data Science with Python Specialization by University of Michigan on Coursera.
 The various 5 courses under this specialization are:
 <ul>
-<li>🔰<a href="https://www.coursera.org/learn/python-data-analysis/home/welcome">[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)</li>
+<li>🔰<a href="https://www.coursera.org/learn/python-data-analysis/home/welcome">[Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis/home/welcome)</a></li>
 <li>💹[Applied Plotting, Charting & Data Representation in Python](https://www.coursera.org/learn/python-plotting/home/welcome)</li>
 <li>Ⓜ[Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning/home/welcome)</li>
 <li>🆒[Applied Text Mining in Python](https://www.coursera.org/learn/python-text-mining/home/welcome)</li>
